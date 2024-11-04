@@ -7,7 +7,7 @@
 #
 Name     : R-patchwork
 Version  : 1.3.0
-Release  : 15
+Release  : 16
 URL      : https://cran.r-project.org/src/contrib/patchwork_1.3.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/patchwork_1.3.0.tar.gz
 Summary  : The Composer of Plots
